@@ -23,7 +23,7 @@ This project started as a static landing page and evolved into a dynamic fronten
 
 This frontend consumes data from the RunFlow API:
 
-👉 https://github.com/brotherson10/decode-project-3-runflow-db
+👉 https://github.com/brotherson10/runflow-backend
 
 Using the Fetch API, the frontend:
 
